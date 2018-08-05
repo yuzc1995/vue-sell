@@ -1,4 +1,5 @@
 # vue-sell
+<<<<<<< HEAD
 
 > Vue.js仿饿了么外卖App
 
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+Vue.js仿饿了么外卖App
+>>>>>>> 67d299f8814055e5665b54e800fc0001c8a28761
