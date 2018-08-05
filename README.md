@@ -1,6 +1,6 @@
 # vue-sell
 
-> A Vue.js project
+> Vue.js仿饿了么外卖App
 
 ## Build Setup
 
